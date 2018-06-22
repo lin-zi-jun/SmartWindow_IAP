@@ -1,0 +1,9 @@
+/OBJ
+*.lst
+*.map
+*.Administrator
+*.bak
+*.uvopt
+*.dep
+*.txt
+*.ini
